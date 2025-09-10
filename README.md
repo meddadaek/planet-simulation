@@ -13,7 +13,5 @@ This project helps visualize how planets move around a star (like our Solar Syst
 
 ---
 
-## 🛠️ Installation
-Clone the repository and move inside the project folder:
-```bash
+
 
